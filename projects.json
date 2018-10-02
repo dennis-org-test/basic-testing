@@ -1,0 +1,14 @@
+{
+  "name": "basic-testing",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennis-org-test/basic-testing.git"
+  },
+  "scripts": {
+    "test": "echo 'testing...done!'"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
